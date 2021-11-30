@@ -39,7 +39,7 @@ applications that require a long-lived connection to each user.
 Hello, world
 ------------
 
-Here is a simple "Hello, world" example web app for Tornado:
+Here is a simple "Hello, blockexplorer" example web app for Tornado:
 
 ```
 import tornado.ioloop
