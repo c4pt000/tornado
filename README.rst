@@ -1,6 +1,12 @@
 Tornado Web Server
 ==================
 
+```
+pip install tornado
+python tornado.py
+```
+
+
 .. image:: https://badges.gitter.im/Join%20Chat.svg
    :alt: Join the chat at https://gitter.im/tornadoweb/tornado
    :target: https://gitter.im/tornadoweb/tornado?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
