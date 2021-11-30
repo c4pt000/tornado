@@ -12,8 +12,10 @@ python tornado.py
 * probably requires Cython for python to c++ bridge to internally bind to c++ code as "transpiled" code for c++ from python .py
 <br>
 <br>
+* each bitcoin "style wallet" -qt desktop wallet serves the listening request and grabs the current transaction hash output from a sent received transaction to populate the html "tornado" gui output
 <br>
 <br>
+* to relinquish the need to host a blockexplorer on an html server remotely and to allow sent and received transaction lookups on ABE style and modern blockexplorer websites locally to serve to each wallet as a node remotely
 <br>
 <br>
 <br>
