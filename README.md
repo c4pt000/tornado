@@ -9,6 +9,7 @@ python tornado.py
 ![s1](https://raw.githubusercontent.com/c4pt000/tornado/master/p2p-html-server.png)
 <br>
 <br>
+* probably requires Cython for python to c++ bridge to internally bind to c++ code as "transpiled" code for c++ from python .py
 <br>
 <br>
 <br>
