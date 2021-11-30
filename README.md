@@ -5,8 +5,7 @@
 pip install tornado
 python tornado.py
 ```
-<br>
-<br>
+
 ![s1](https://raw.githubusercontent.com/c4pt000/tornado/master/p2p-html-server.png)
 <br>
 <br>
